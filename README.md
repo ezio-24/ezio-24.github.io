@@ -33,7 +33,7 @@ To deploy this project, simply open the index.html file in your browser.
 
 ## Demo
 
-Check out the live demo of the application at https://ezio-24.github.io/ezio-24.github.io-TO-DO-List/ to see it in action.
+Check out the live demo of the application at [Click Here](https://ezio-24.github.io/ezio-24.github.io-TO-DO-List/) to see it in action.
 
 
 ## Authors

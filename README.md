@@ -39,5 +39,14 @@ Check out the live demo of the application at [Click Here](https://ezio-24.githu
 ## Authors
 
 - [@Anand](https://github.com/ezio-24)
+- <hr>
 <br>
 <img src="https://github.com/ezio-24/ezio-24.github.io-TO-DO-List/blob/main/ScreenShot/to-do%20ss1.PNG"/>
+<br>
+<hr>
+<br>
+<img src="https://github.com/ezio-24/ezio-24.github.io-TO-DO-List/blob/main/ScreenShot/to-do%20ss2.PNG"/>
+<br>
+<hr>
+<br>
+
